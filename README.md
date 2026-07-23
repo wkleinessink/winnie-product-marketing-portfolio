@@ -10,9 +10,28 @@ My background spans technology/ICT, digital transformation, public health and so
 - Digital marketing and customer engagement
 ## Current Focus
 I am developing expertise in AI product marketing, conversational AI and emerging technologies, with a focus on helping organisations communicate the value of complex AI solutions.
-## Portfolio Projects
-Coming soon:
-- AI product positioning exercises
-- Enterprise AI messaging frameworks
-- Go-to-market strategy examples
-- Technology storytelling case studies
+- ## Featured Case Study
+
+### AI Voice Agent Platform — Enterprise Product Marketing Strategy
+
+This portfolio explores how an AI voice agent platform can be positioned, messaged and launched for enterprise adoption.
+
+The case study covers:
+
+1. Product positioning
+- Market context
+- Customer problems
+- Competitive differentiation
+- Value proposition
+
+2. Messaging strategy
+- Buyer personas
+- Messaging pillars
+- Objection handling
+- Content strategy
+
+3. Go-to-market strategy
+- Industry targeting
+- Launch planning
+- Sales enablement
+- Success metrics
